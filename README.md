@@ -34,6 +34,8 @@
 5. If the IP address is found in the allow list, remove it from the allow list.
 6. Write the updated allow list back to the file, replacing the previous contents.
 
+<img src="https://i.imgur.com/KYJZ5gu.png" height="800" width="800" alt="Disk Sanitation Steps" />
+
 <p style="font-size: 8px;">Note: Projects and Activities are currently on Private visibility. </p>
 <br>
 <h2> 🖥️ Activities</h2>
