@@ -17,13 +17,22 @@
   - The task in this scenario was to investigate potential security issues related to login attempts and employee machines by examining the organization's data in the employees and log_in_attempts tables. This involves using SQL filters to retrieve records from different datasets and analyze them to identify any security concerns. **(Filter with AND, OR, and NOT)**
 
 **Project 5:** [Analyze a vulnerable system for a small business](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%206%20-%20Analyze%20a%20vulnerable%20system%20for%20a%20small%20business%201.pdf) <br>
-  - Conducted a vulnerability assessment of the e-commerce company's remote database server, which has been open to the public for the past three years. As a newly hired cybersecurity analyst, the objective was to create a written report that clearly communicates the potential risks associated with this vulnerability to decision makers within the company. The report should outline how the open database server poses a risk to business operations and provide recommendations on how to secure it to mitigate these risks.
+  - Conducted a vulnerability assessment of the e-commerce company's remote database server, which has been open to the public for the past three years.
+  - Created a written report that clearly communicates the potential risks associated with this vulnerability to decision makers within the company. The report outlines how the open database server poses a risk to business operations and provided recommendations on how to secure it to mitigate these risks.
 
 **Project 6:** [Document an incident with an incident handler's journal](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%207%20-%20Document%20an%20incident%20with%20an%20incident%20handler's%20journal%201.pdf) <br>
   - Respond to a ransomware security incident by documentation using 5 W's (Who, What, Where, When, and Why)
 
 **Project 7:** [Update a file through a Python algorithm](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%209%20-%20Update%20a%20file%20through%20a%20Python%20algorithm.pdf) <br>
   - Created a Python Algorithm to check if any IP addresses on the remove list are present in the allow list and remove them if found.
+  - Step-by-step instructions:
+
+1. Read the contents of the allow list file and store the IP addresses in a list.
+2. Read the contents of the remove list file and store the IP addresses in a separate list.
+3. Iterate through each IP address in the remove list.
+4. Check if the IP address exists in the allow list.
+5. If the IP address is found in the allow list, remove it from the allow list.
+6. Write the updated allow list back to the file, replacing the previous contents.
 
 <p style="font-size: 8px;">Note: Projects and Activities are currently on Private visibility. </p>
 <br>
