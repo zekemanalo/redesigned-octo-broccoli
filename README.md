@@ -1,21 +1,29 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Conduct a Security Audit](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%202%20-%20Conduct%20a%20Security%20Audit%202.pdf)</b>
- 
-- <b>[Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%203%20-%20Use%20the%20NIST%20Cybersecurity%20Framework%20to%20respond%20to%20a%20security%20incident%201.pdf)</b>
-
-- <b>[Use Linux commands to manage file permissions](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%204%20-%20Use%20Linux%20commands%20to%20manage%20file%20permissions%201.pdf)</b>
+**Project 1:** [Conduct a Security Audit](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%202%20-%20Conduct%20a%20Security%20Audit%202.pdf) <br>
+  - Reviewed the scope, goals, and risk assessment report details focus on the asset managed by the IT Department
+(fictional company).
+  - Self-assessment for controls and compliance checklist
   
-- <b>[Apply filters to SQL queries](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%205%20-%20Apply%20filters%20to%20SQL%20queries.pdf)</b>
+**Project 2:** [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%203%20-%20Use%20the%20NIST%20Cybersecurity%20Framework%20to%20respond%20to%20a%20security%20incident%201.pdf) <br>
+  - Created a plan to improve the company's network security, utilizing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
+  - Analyzed the incident of DDoS attack and integrate the analysis into general security strategy. Navigated through different steps outlined in the CSF, including identifying security risks, protecting internal assets, detecting potential security incidents, responding to incidents, and recovering affected systems.
 
-- <b>[Analyze a vulnerable system for a small business](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%206%20-%20Analyze%20a%20vulnerable%20system%20for%20a%20small%20business%201.pdf)</b>
+**Project 3:** [Use Linux commands to manage file permissions](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%204%20-%20Use%20Linux%20commands%20to%20manage%20file%20permissions%201.pdf) <br>
+  - Examined existing permissions on the file system, ensuring that users on the research team have the appropriate authorization. This involves determining if the current permissions align with the authorized access levels. If the permission do not matcht the intended authorization, the task was to modify the permissions to grant appropriate access to authorized users and revoke access from unauthorized users.
+    
+**Project 4:** [Apply filters to SQL queries](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%205%20-%20Apply%20filters%20to%20SQL%20queries.pdf) <br>
+  - The task in this scenario was to investigate potential security issues related to login attempts and employee machines by examining the organization's data in the employees and log_in_attempts tables. This involves using SQL filters to retrieve records from different datasets and analyze them to identify any security concerns. **(Filter with AND, OR, and NOT)**
 
-- <b>[Document an incident with an incident handler's journal](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%207%20-%20Document%20an%20incident%20with%20an%20incident%20handler's%20journal%201.pdf)</b>
+**Project 5:** [Analyze a vulnerable system for a small business](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%206%20-%20Analyze%20a%20vulnerable%20system%20for%20a%20small%20business%201.pdf) <br>
+  - Conducted a vulnerability assessment of the e-commerce company's remote database server, which has been open to the public for the past three years. As a newly hired cybersecurity analyst, the objective was to create a written report that clearly communicates the potential risks associated with this vulnerability to decision makers within the company. The report should outline how the open database server poses a risk to business operations and provide recommendations on how to secure it to mitigate these risks.
 
-- <b>[Finalize your incident handler's journal](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%208%20-%20Finalize%20your%20incident%20handler's%20journal.pdf)</b>
+**Project 6:** [Document an incident with an incident handler's journal](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%207%20-%20Document%20an%20incident%20with%20an%20incident%20handler's%20journal%201.pdf) <br>
+  - Respond to a ransomware security incident by documentation using 5 W's (Who, What, Where, When, and Why)
 
-- <b>[Update a file through a Python algorithm](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%209%20-%20Update%20a%20file%20through%20a%20Python%20algorithm.pdf)</b>
+**Project 7:** [Update a file through a Python algorithm](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%209%20-%20Update%20a%20file%20through%20a%20Python%20algorithm.pdf) <br>
+  - Created a Python Algorithm to check if any IP addresses on the remove list are present in the allow list and remove them if found.
 
 <p style="font-size: 8px;">Note: Projects and Activities are currently on Private visibility. </p>
 <br>
