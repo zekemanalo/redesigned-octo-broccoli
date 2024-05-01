@@ -45,16 +45,22 @@
   - Explained how the attack is causing the website malfunction  
 
 **Activity 2:** [Analyze Network layer communication](https://github.com/zekemanalo/project-activities/blob/main/Activity%202%20-%20Analyze%20Network%20layer%20communication.pdf) <br>
-  - Identified the type of attack that may have caused network interruption
-  - Explained how the attack is causing the website malfunction  
+  - Provided a summary of the problem found in the DNS and ICMP traffic log
+  - Explained the analysis of the data and provided at least one cause of the incident
 
-- <b>[Analysis of network hardening](https://github.com/zekemanalo/project-activities/blob/main/Activity%203%20-%20Analysis%20of%20network%20hardening.pdf)</b>
-  
-- <b>[Score risks based on their likelihood and severity](https://github.com/zekemanalo/project-activities/blob/main/Activity%204%20-%20Score%20risks%20based%20on%20their%20likelihood%20and%20severity.pdf)</b>
+**Activity 3:** [Analysis of network hardening](https://github.com/zekemanalo/project-activities/blob/main/Activity%203%20-%20Analysis%20of%20network%20hardening.pdf) <br>
+  - Wrote a Security Assessment to analyze the incident
+  - Explained what methods can be used to further secure a network
 
-- <b>[Determine appropriate data handling practices](https://github.com/zekemanalo/project-activities/blob/main/Activity%205%20-%20Determine%20appropriate%20data%20handling%20practices.pdf)</b>
+**Activity 4:** [Score risks based on their likelihood and severity](https://github.com/zekemanalo/project-activities/blob/main/Activity%204%20-%20Score%20risks%20based%20on%20their%20likelihood%20and%20severity.pdf) <br>
+  - Evaluated a set of risks that the cybersecurity team has recorded in the risk register
+  - Calculated the score for the severity of the risk, then compare scores across all risk. 
 
-- <b>[Identify the attack vectors of a USB drive](https://github.com/zekemanalo/project-activities/blob/main/Activity%206%20-%20Identify%20the%20attack%20vectors%20of%20a%20USB%20drive.pdf)</b>
+**Activity 5:** [Determine appropriate data handling practices](https://github.com/zekemanalo/project-activities/blob/main/Activity%205%20-%20Determine%20appropriate%20data%20handling%20practices.pdf) <br>
+  - Conducted a comprehensive analysis of the data leak incident, assessing existing controls, proposing improvements, and substantiating these recommendations with rationale for enhancing data handling security within the company.
+
+**Activity 6:** [Identify the attack vectors of a USB drive](https://github.com/zekemanalo/project-activities/blob/main/Activity%206%20-%20Identify%20the%20attack%20vectors%20of%20a%20USB%20drive.pdf) <br>
+  - Investigated the USB stick found in the parking lot, using virtualization software to prevent any potential threats from affecting the hospital's systems, and then taking appropriate actions based on the findings.
 
 - <b>[Apply the PASTA threat model framework](https://github.com/zekemanalo/project-activities/blob/main/Activity%207%20-%20Apply%20the%20PASTA%20threat%20model%20framework.pdf)</b>
 
