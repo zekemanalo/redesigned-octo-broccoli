@@ -62,13 +62,17 @@
 **Activity 6:** [Identify the attack vectors of a USB drive](https://github.com/zekemanalo/project-activities/blob/main/Activity%206%20-%20Identify%20the%20attack%20vectors%20of%20a%20USB%20drive.pdf) <br>
   - Investigated the USB stick found in the parking lot, using virtualization software to prevent any potential threats from affecting the hospital's systems, and then taking appropriate actions based on the findings.
 
-- <b>[Apply the PASTA threat model framework](https://github.com/zekemanalo/project-activities/blob/main/Activity%207%20-%20Apply%20the%20PASTA%20threat%20model%20framework.pdf)</b>
+**Activity 7:** [Apply the PASTA threat model framework](https://github.com/zekemanalo/project-activities/blob/main/Activity%207%20-%20Apply%20the%20PASTA%20threat%20model%20framework.pdf) <br>
+  - Performed a comprehensive threat model of the mobile application using the PASTA framework and derived security requirements to ensure the security and integrity of the application and the company's assets.
 
-- <b>[Research network protocol analyzers](https://github.com/zekemanalo/project-activities/blob/main/Activity%208%20-%20Research%20network%20protocol%20analyzers.pdf)</b>
+**Activity 8:** [Research network protocol analyzers](https://github.com/zekemanalo/project-activities/blob/main/Activity%208%20-%20Research%20network%20protocol%20analyzers.pdf) <br>
+  - Conducted a research, synthesizing information, and presenting the findings in a structured manner to facilitate comparison between Wireshark and tcpdump for the purpose of aiding decision-making or understanding their suitability for specific use cases.
 
-- <b>[Investigate a suspicious file hash](https://github.com/zekemanalo/project-activities/blob/main/Activity%209%20-%20Investigate%20a%20suspicious%20file%20hash.pdf)</b>
+**Activity 9:** [Investigate a suspicious file hash](https://github.com/zekemanalo/project-activities/blob/main/Activity%209%20-%20Investigate%20a%20suspicious%20file%20hash.pdf) <br>
+  - Investigated a security alert, analyzing the incident, retrieving the malicious file, generating a hash for the file, and utilized VirusTotal to uncover additional IoCs associated with the file to enhance threat detection and response capabilities.
 
-- <b>[Use a playbook to respond to a phishing incident](https://github.com/zekemanalo/project-activities/blob/main/Activity%2010%20-%20Use%20a%20playbook%20to%20respond%20to%20a%20phishing%20incident.pdf)</b>
+**Activity 10:** [Use a playbook to respond to a phishing incident](https://github.com/zekemanalo/project-activities/blob/main/Activity%2010%20-%20Use%20a%20playbook%20to%20respond%20to%20a%20phishing%20incident.pdf) <br>
+  - Followed the organizational procedures, completed the investigation of the phishing alert, and documented the findings for organizational records.
 
 <p style="font-size: 8px;">Note: Projects and Activities are currently on Private visibility. </p>
 <br>
