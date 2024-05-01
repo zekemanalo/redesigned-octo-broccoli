@@ -43,8 +43,6 @@
 **Activity 1:** [Analyze Network attack](https://github.com/zekemanalo/project-activities/blob/main/Activity%201%20-%20Analyze%20Network%20attack.pdf) <br>
   - Identified the type of attack that may have caused network interruption
   - Explained how the attack is causing the website malfunction  
- 
-- <b>[Analyze Network layer communication](https://github.com/zekemanalo/project-activities/blob/main/Activity%202%20-%20Analyze%20Network%20layer%20communication.pdf)</b>
 
 **Activity 2:** [Analyze Network layer communication](https://github.com/zekemanalo/project-activities/blob/main/Activity%202%20-%20Analyze%20Network%20layer%20communication.pdf) <br>
   - Identified the type of attack that may have caused network interruption
