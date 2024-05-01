@@ -4,14 +4,14 @@
 **Project 1:** [Conduct a Security Audit](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%202%20-%20Conduct%20a%20Security%20Audit%202.pdf) <br>
   - Reviewed the scope, goals, and risk assessment report details focused on the asset managed by the IT Department
 (fictional company).
-  - Self-assessment for controls and compliance checklist
+  - Self-assessment for controls and compliance checklist. The checklist includes PCI DSS, GDPR, SOC type 1 and SOC type 2.
   
 **Project 2:** [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%203%20-%20Use%20the%20NIST%20Cybersecurity%20Framework%20to%20respond%20to%20a%20security%20incident%201.pdf) <br>
   - Created a plan to improve the company's network security, utilizing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
   - Analyzed the incident of DDoS attack and integrated the analysis into general security strategy. Navigated through different steps outlined in the CSF, including identifying security risks, protecting internal assets, detecting potential security incidents, responding to incidents, and recovering affected systems.
 
 **Project 3:** [Use Linux commands to manage file permissions](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%204%20-%20Use%20Linux%20commands%20to%20manage%20file%20permissions%201.pdf) <br>
-  - Examined existing permissions on the file system, ensuring that users on the research team have the appropriate authorization. This involves determining if the current permissions align with the authorized access levels. If the permission do not match the intended authorization, the task was to modify the permissions to grant appropriate access to authorized users and revoke access from unauthorized users.
+  - Examined existing permissions on the file system, ensuring that users on the research team have the appropriate authorization. This involves determining if the current permissions align with the authorized access levels. If the permission does not match the intended authorization, the task was to modify the permissions to grant appropriate access to authorized users and revoke access from unauthorized users.
     
 **Project 4:** [Apply filters to SQL queries](https://github.com/zekemanalo/project-activities/blob/main/Portfolio%20Activity%205%20-%20Apply%20filters%20to%20SQL%20queries.pdf) <br>
   - The task in this scenario was to investigate potential security issues related to login attempts and employee machines by examining the organization's data in the employees and log_in_attempts tables. This involves using SQL filters to retrieve records from different datasets and analyze them to identify any security concerns. **(Filter with AND, OR, and NOT)**
